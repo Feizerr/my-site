@@ -229,5 +229,34 @@ td {
 }
 
 .price {
-  padding-bottom: 200px;
+  padding-bottom: 130px;
+}
+form {
+  border: 1 px solid darkblue;
+  margin-bottom: 86px;
+}
+input {
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+.call-to-action p
+{
+  font-size: 19px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.call-to-action .subheading {
+margin-bottom: 20px;
+}
+
+.button-call {
+  padding: 10px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #288be6;
+  color: #ffffff;
+  margin-bottom: 20px;
 }
