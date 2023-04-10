@@ -260,3 +260,7 @@ margin-bottom: 20px;
   color: #ffffff;
   margin-bottom: 20px;
 }
+
+fieldset {
+  padding-top: 20px
+}
